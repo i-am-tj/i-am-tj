@@ -11,12 +11,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-tj&show_icons=true&locale=en&layout=compact&theme=dark" width="250" alt="i-am-tj"/></a></p>
-<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=i-am-tj&show_icons=true&count_private=true&theme=dark" width="350" alt="i-am-tj></a></p>
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-tj&show_icons=true&locale=en&layout=compact&theme=dark" width="300" alt="i-am-tj"/></a></p>
+<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=i-am-tj&show_icons=true&count_private=true&theme=dark" width="350" alt="i-am-tj"></a></p>
 <p align='center'><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-tj&theme=dark" width="350" alt="i-am-tj"></a></p>
 
 <p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/' style='text-decoration:none;'>Nominate me for GitHub Stars ⭐</a> or <a href='https://github.com/sponsors/i-am-tj' style='text-decoration:none;'>Sponsor me ❤️</a>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me for GitHub Stars ⭐</a> or <a href='https://github.com/sponsors/i-am-tj' style='text-decoration:none;'>Sponsor me ❤️</a>
 </p>
 
 <p align='center'>
