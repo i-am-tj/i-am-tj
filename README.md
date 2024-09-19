@@ -22,3 +22,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:tanuj.chakraborty21@gmail.com'>tanuj.chakraborty21@gmail.com</a>
 </p>
+
+<p align='center'>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fi-am-tj"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fi-am-tj&label=Visitors&labelColor=%23697689&countColor=%232ccce4&style=flat" /></a>
+</p>
