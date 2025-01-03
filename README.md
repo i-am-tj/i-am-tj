@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanuj 👨‍💻</h1>
 
-<p align='center'>Software Developer based out of India 🇮🇳</p>
+<p align='center'>Software Developer based in India 🇮🇳</p>
 
 <p align='center'>
   <a href="https://github.com/sponsors/i-am-tj">
